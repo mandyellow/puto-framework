@@ -1,3 +1,5 @@
+<img src="/src/assets/logo.svg" width=220 height=auto>
+
 # puto-framework
 
 [![Build Status](https://travis-ci.com/vuejs-norte/puto-framework.svg?branch=master)](https://travis-ci.com/vuejs-norte/puto-framework)
